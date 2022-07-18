@@ -29,6 +29,7 @@ void fillField() {
 		}cout << endl;
 	}cout << endl;
 
+
 	//for (size_t i = 0; i < 4; i++) {
 	//	for (size_t j = 0; j < 4; j++) {
 	//		cout << gameField[i][j];
